@@ -63,27 +63,27 @@ const { wait, simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRando
 
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:デ ニ ス\n'
-            + 'ORG:Owner Dns Bot;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6285866295942:+62 858-66295-942\n'
+            + 'FN:RSBOT-ID\n'
+            + 'ORG:Owner RSBOT ;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=6285892935752:+62 858-9293-5752\n'
             + 'END:VCARD'
        
 const vcard1 = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:Caca Cans\n'
-            + 'ORG:Co Owner Dns Bot;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6285876210829:+62 858-76210-829\n'
+            + 'FN:RSBOT-ID\n'
+            + 'ORG:Co Owner RSBOT;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=6285892935752:+62 858-9293-5752\n'
             + 'END:VCARD'
 
-prefix = "#"
-name = "DNS BOT"
+prefix = "!"
+name = "RSBOT"
 rdaftar = "@denssptraa"
-rmenu = "@denssptraa"
-botinfo = "@denssptraa"
-limitt = 999999999
-memberLimit = 10
+rmenu = "RSBOT"
+botinfo = "@RSBOT"
+limitt = 1000
+memberLimit = 2
 ban = []
-premium = ["6285866295942@s.whatsapp.net","6285876210829@s.whatsapp.net"]
+premium = ["6285892935752@s.whatsapp.net","6285876210829@s.whatsapp.net"]
 
 function kyun(seconds){
   function pad(s){
