@@ -39,6 +39,6 @@
 
 
 ## Sosmed
-* [`YouTube`](https://youtube.com/channel/UCdAlsvg9B6llWCWV8JMNhug)
+* [`YouTube`](https://m.youtube.com/channel/UCczddkGMmujyvcQXFunUWuQ/videos)
 * [`WhatsApp`](085892935752)
 * [`Instagram`](https://www.instagram.com/_rizky_xcode9/)
