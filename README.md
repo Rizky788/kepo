@@ -40,5 +40,5 @@
 
 ## Sosmed
 * [`YouTube`](https://youtube.com/channel/UCdAlsvg9B6llWCWV8JMNhug)
-* [`WhatsApp`](https://chat.whatsapp.com/Hpwp8FBfJMtHEN5KeuFJKw)
-* [`Instagram`](https://instagram.com/denssptraa)
+* [`WhatsApp`](085892935752)
+* [`Instagram`](https://www.instagram.com/_rizky_xcode9/)
