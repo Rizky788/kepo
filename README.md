@@ -2,7 +2,7 @@
 <img src=https://i.ibb.co/fkXKKHH/dnsnew.jpg" alt="20210103-132024" border="0">
 </p>
 <p align="center">
-<a href="https://github.com/denisputraa">
+<a href="https://github.com/Rizky788/kepo">
 </p>
 
   
@@ -18,11 +18,11 @@
 ## Clone This Project
 
 ```bash
-> git clone https://github.com/denisputraa/dnsbot
+> git clone https://github.com/Rizky788/kepo
 ```
 
 ```bash
-> cd dnsbot
+> cd kepo
 > bash install.sh
 ```
 
